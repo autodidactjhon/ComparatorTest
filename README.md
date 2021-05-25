@@ -8,7 +8,8 @@ Dado un array de n cantidad de objetos de tipo Player, escriba un comparador que
 
 Para hacer esto, debe crear una clase Checker que implemente la interfaz Comparator, luego escribir un método int compare(Player a, Player b) implementando el método Comparator.compare(T o1, T o2).
 
-Consideraciones
-  0 <= score <= 1000
-  2 players pueden tener el mismo nombre
+Consideraciones:
+
+  0 <= score <= 1000  
+  2 players pueden tener el mismo nombre  
   Los nombres de los jugadores están formados por letras minúsculas.
